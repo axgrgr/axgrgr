@@ -24,7 +24,7 @@ Me gusta mucho el **Desarrollo Web**. Actualmente trabajo de manera independient
 
 - **Estudiante de Ingeniería en Sistemas** enfocado en el desarrollo de software.
 - **Desarrollador Full-Stack** con preferencia por el desarrollo ágil.
-- He trabajado en proyectos que integran hardware, biometría y aplicaciones web de alto rendimiento.
+- He trabajado en proyectos que integran hardware, biometría y aplicaciones web.
 - Aburrido, introvertido y viva ed maverick
 
 ---
